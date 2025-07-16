@@ -1,0 +1,13 @@
+name: fit_hive
+description: "Repository implementation for Hive"
+version: 1.0.0
+homepage: https://pub.dev/packages/fit_hive
+repository: https://github.com/Vaistudio-dev/fit_hive
+issue_tracker: https://github.com/Vaistudio-dev/fit_hive/issues
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  hive: ^2.2.3
+  flutter_fit_utils: ^3.0.1
