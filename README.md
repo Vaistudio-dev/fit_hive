@@ -13,7 +13,7 @@ Use this package to:
 - Go inside your pubspec.yaml file
 - Add this line under the dependencies:
 ```
-fit_hive: ^1.0.0
+fit_hive: ^1.0.1
 ```
 - Get dependencies
 ```
